@@ -11,7 +11,7 @@ setup(
     version='0.2.4',
     description='Python wrapper for youtube data Api video upload',
     long_description="Python wrapper for youtube data Api video upload",
-    url='https://github.com/odysseusmax/youtube-upload',
+    url='https://github.com/trick-india/youtube-upload',
     author='Christy Roys',
     author_email='royschristy@gmail.com',
     license='MIT',
